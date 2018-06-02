@@ -1,4 +1,4 @@
-# Presentacion empresa dual
+﻿# Presentacion empresa dual
 Presentación de la empresa donde he realizado el 1º curso de la dual 
 
 <h1 align="center"> AVANADE </h1>
@@ -39,3 +39,66 @@ He llevado a cabo diversas prácticas en consola y más tarde desarrollando una 
 
 🌸 Visual Studio Microsoft SQL Server Management Studio
 
+## Aplicación realizada con WinForm
+
+Aplicación que gestiona pedidos de usuarios con la base de datos de AdventureWorks
+
+<p align="center">
+<img src="imagenes/pedido/0.jpg" width="680px">
+
+</p>
+
+<p align="center">
+<img src="imagenes/pedido/1.jpg" width="680px">
+
+</p>
+
+<p align="center">
+<img src="imagenes/pedido/1-1.jpg" width="680px">
+
+</p>
+
+<p align="center">
+<img src="imagenes/pedido/1-2-error.jpg" width="680px">
+
+</p>
+
+<p align="center">
+<img src="imagenes/pedido/1-3.jpg" width="680px">
+
+</p>
+
+<p align="center">
+<img src="imagenes/pedido/2.jpg" width="680px">
+
+</p>
+
+<p align="center">
+<img src="imagenes/pedido/2-1.jpg" width="680px">
+
+</p>
+
+<p align="center">
+<img src="imagenes/pedido/2-2.jpg" width="680px">
+
+</p>
+
+<p align="center">
+<img src="imagenes/pedido/2-3-modificar.jpg" width="680px">
+
+</p>
+
+<p align="center">
+<img src="imagenes/pedido/3-modificar.jpg" width="680px">
+
+</p>
+
+<p align="center">
+<img src="imagenes/pedido/3-1.jpg" width="680px">
+
+</p>
+
+<p align="center">
+<img src="imagenes/pedido/3-2.jpg" width="680px">
+
+</p>
