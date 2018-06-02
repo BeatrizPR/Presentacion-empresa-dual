@@ -89,7 +89,7 @@ Aplicación que gestiona pedidos de usuarios con la base de datos de AdventureWo
 </p>
 
 <p align="center">
-<img src="imagenes/pedido/3-modificar.png" width="680px">
+<img src="imagenes/pedido/3-modificar un pedido.png" width="680px">
 
 </p>
 
