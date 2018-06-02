@@ -19,8 +19,8 @@ Además de hacer los cursos, he elaborado distintas prácticas llevadas a cabo e
 
 También, he realizado diversos cursos en la plataforma de PluralSight como:
 
-⁂ C# Fundamentals with Visual Studio 2015 (5h 2m)
-⁂ C# Best Practices: Collections and Generics (3h 35m)
+🌸 C# Fundamentals with Visual Studio 2015 (5h 2m)
+🌸 C# Best Practices: Collections and Generics (3h 35m)
 
 He visto algunos de los Webcast Innova Learn que se han ofrecido en la empresa como por ejemplo uno sobre GitHub y otro de Docker en Microsoft Azure
 
@@ -30,9 +30,9 @@ He llevado a cabo diversas prácticas en consola y más tarde desarrollando una 
 
 ## Herramientas y tecnologías utilizadas
 
-⁂ C#
-⁂ SQL
+🌸 C#
+🌸 SQL
 
-⁂ Visual Studio
-⁂ Visual Studio Microsoft SQL Server Management Studio
+🌸 Visual Studio
+🌸 Visual Studio Microsoft SQL Server Management Studio
 
