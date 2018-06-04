@@ -27,7 +27,7 @@ He visto algunos de los Webcast Innova Learn que se han ofrecido en la empresa c
 
 ## Prácticas
 
-He llevado a cabo diversas prácticas en consola y más tarde desarrollando una aplicación en WinForm con la base de datos de AdventureWorks que proporciona Microsoft de forma gratuita. De esta forma he podido realizar prácticas también con SQL, elaborando tareas de creación, actualización, insercción y borrado de datos, además de realozar diversas consultas.
+He llevado a cabo diversas prácticas en consola y más tarde desarrollando una aplicación en WinForm con la base de datos de AdventureWorks que proporciona Microsoft de forma gratuita. De esta forma he podido realizar prácticas también con SQL, elaborando tareas de creación, actualización, insercción y borrado de datos, además de realizar diversas consultas.
 
 ## Herramientas y tecnologías utilizadas
 
@@ -37,7 +37,7 @@ He llevado a cabo diversas prácticas en consola y más tarde desarrollando una 
 
 🌸 Visual Studio
 
-🌸 Visual Studio Microsoft SQL Server Management Studio
+🌸 Microsoft SQL Server Management Studio
 
 ## Aplicación realizada con WinForm
 
