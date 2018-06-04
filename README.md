@@ -37,7 +37,7 @@ He llevado a cabo diversas prácticas en consola y más tarde desarrollando una 
 
 🌸 Visual Studio
 
-🌸 Visual Studio Microsoft SQL Server Management Studio
+🌸 Microsoft SQL Server Management Studio
 
 ## Aplicación realizada con WinForm
 
