@@ -119,8 +119,7 @@ namespace mantenimientoPedido
             catch //(Exception ex)
             {
                 throw;
-                // No me funciona lo de abajo - hago un throw
-                // Base.ManageError(ex, "There was an error getting person details");
+
             }
         }
 

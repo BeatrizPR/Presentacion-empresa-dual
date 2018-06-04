@@ -23,11 +23,11 @@ También, he realizado diversos cursos en la plataforma de PluralSight como:
 
 🌸 C# Best Practices: Collections and Generics (3h 35m)
 
-He visto algunos de los Webcast Innova Learn que se han ofrecido en la empresa como por ejemplo uno sobre GitHub y otro de Docker en Microsoft Azure
+He visto algunos de los Webcast Innova Learn que se han ofrecido en la empresa como por ejemplo uno sobre GitHub y otro de Docker en Microsoft Azure.
 
 ## Prácticas
 
-He llevado a cabo diversas prácticas en consola y más tarde desarrollando una aplicación en WinForm con la base de datos de AdventureWorks que proporciona Microsoft de forma gratuita. De esta forma he podido realizar prácticas también con SQL, elaborando tareas de creación, actualización, insercción y borrado de datos, además de realozar diversas consultas.
+He llevado a cabo diversas prácticas en consola y más tarde desarrollando una aplicación en WinForm con la base de datos de AdventureWorks que proporciona Microsoft de forma gratuita. De esta forma he podido realizar prácticas también con SQL, elaborando tareas de creación, actualización, insercción y borrado de datos, además de realizar diversas consultas.
 
 ## Herramientas y tecnologías utilizadas
 
@@ -102,3 +102,13 @@ Aplicación que gestiona pedidos de usuarios con la base de datos de AdventureWo
 <img src="imagenes/pedido/3-2.png" width="680px">
 
 </p>
+
+## Valoración
+
+Mi valoración de las prácticas en la empresa es muy positiva ya que  ha sido el primer  contacto directo con la realidad que encontraré cuando inicie mi vida laboral.  He aprendido mucho y  me ha parecido muy importante el espíritu de equipo, con un mismo objetivo.
+
+Con las prácticas es cuando realmente confirmas si  lo que realizas se corresponde  a las expectativas que te habías marcado respecto a la teoría o lo que se estudia en el centro.
+
+Otro aspecto fundamental que me ha resultado muy interesante ha sido la autoformación. En un primer momento resulta  un poco complicado, pero  resulta gratificante ver el resultado.
+
+También, quiero destacar la importancia de aprender nuevos lenguajes como c# con los que se trabaja en la empresa, así como la manera de estructurar el código y que no se genere un código espagueti.

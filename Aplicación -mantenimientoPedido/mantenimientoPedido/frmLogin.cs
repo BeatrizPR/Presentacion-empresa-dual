@@ -145,11 +145,6 @@ namespace mantenimientoPedido
 
             formMain.ShowDialog(this);
 
-            //          form main show in front of login form
-            //formMain.ShowD();
-            //formMain.TopMost = true;
-            //formMain.Activate();
-
             this.Hide();
         }
 
