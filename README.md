@@ -112,3 +112,44 @@ Con las prácticas es cuando realmente confirmas si  lo que realizas se correspo
 Otro aspecto fundamental que me ha resultado muy interesante ha sido la autoformación. En un primer momento resulta  un poco complicado, pero  resulta gratificante ver el resultado.
 
 También, quiero destacar la importancia de aprender nuevos lenguajes como c# con los que se trabaja en la empresa, así como la manera de estructurar el código y que no se genere un código espagueti.
+
+
+##Pequeña práctica realizada por mi cuenta al principio de iniciar la formación de windows form
+
+Realicé un visor de imágenes simple con botones para practicar con los formularios,botones y eventos.
+
+
+<p align="center">
+<img src="imagenes/Screenshot_1.jpg" width="600px">
+
+</p>
+<p align="center">
+<img src="imagenes/Screenshot_2.jpg" width="600px">
+
+</p>
+<p align="center">
+<img src="imagenes/Screenshot_3.jpg" width="600px">
+
+</p>
+<p align="center">
+<img src="imagenes/Screenshot_4.jpg" width="600px">
+
+</p>
+<p align="center">
+<img src="imagenes/Screenshot_5.jpg" width="600px">
+
+</p>
+<p align="center">
+<img src="imagenes/Screenshot_6.jpg" width="600px">
+
+</p>
+<p align="center">
+<img src="imagenes/Screenshot_7.jpg" width="600px">
+
+</p>
+
+</p>
+<p align="center">
+<img src="imagenes/Screenshot_8.jpg" width="600px">
+
+</p>
