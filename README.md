@@ -114,7 +114,9 @@ Otro aspecto fundamental que me ha resultado muy interesante ha sido la autoform
 También, quiero destacar la importancia de aprender nuevos lenguajes como c# con los que se trabaja en la empresa, así como la manera de estructurar el código y que no se genere un código espagueti.
 
 
-##Pequeña práctica realizada por mi cuenta al principio de iniciar la formación de windows form
+## Visor de imágenes en winform
+
+Pequeña práctica realizada por mi cuenta al principio de iniciar la formación de windows form
 
 Realicé un visor de imágenes simple con botones para practicar con los formularios,botones y eventos.
 
